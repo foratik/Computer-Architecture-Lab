@@ -14,5 +14,13 @@ The Computer Architecture Laboratory course provides hands-on experience with th
 - [Amirhossein Souri](https://github.com/Amir14Souri)
 
 
+## Projects:
+
+### First Experiment :: 3-Digit BCD Adder
+
+<p align="center">  
+    <img height="350px" width="auto" src ="Az1/Assets/3-Digit-BCD-Adder.png">
+</p>  
+
 
  
