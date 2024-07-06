@@ -19,7 +19,8 @@ The Computer Architecture Laboratory course provides hands-on experience with th
 ### First Experiment :: 3-Digit BCD Adder
 
 <p align="center">  
-    <img height="350px" width="auto" src ="Az1/Assets/3-Digit-BCD-Adder.png">
+    <img height="auto" width="620px" src ="Az1/Assets/3-Digit-BCD-Adder.png">
+    <img height="auto" width="620px" src ="Az1/Assets/1-Digit-BCD-Adder.jpg">
 </p>  
 
 
