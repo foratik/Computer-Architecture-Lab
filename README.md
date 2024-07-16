@@ -21,7 +21,11 @@ The Computer Architecture Laboratory course provides hands-on experience with th
 <p align="center">  
     <img height="auto" width="620px" src ="Az1/Assets/3-Digit-BCD-Adder.png">
     <img height="auto" width="620px" src ="Az1/Assets/1-Digit-BCD-Adder.jpg">
-</p>  
+</p> 
 
+### Second Experiment :: 6-Bit Carry Select Adder
 
- 
+<p align="center">  
+    <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder.png">
+    <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder-implementation.jpg">
+</p>
