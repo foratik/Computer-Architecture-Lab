@@ -16,16 +16,29 @@ The Computer Architecture Laboratory course provides hands-on experience with th
 
 ## Projects:
 
-### First Experiment :: 3-Digit BCD Adder
+### Experiment 1 :: 3-Digit BCD Adder
 
 <p align="center">  
     <img height="auto" width="620px" src ="Az1/Assets/3-Digit-BCD-Adder.png">
     <img height="auto" width="620px" src ="Az1/Assets/1-Digit-BCD-Adder.jpg">
 </p> 
 
-### Second Experiment :: 6-Bit Carry Select Adder
+### Experiment 2 :: 6-Bit Carry Select Adder
 
 <p align="center">  
     <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder.png">
     <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder-implementation.jpg">
+</p>
+
+### Experiment 3 :: 4-Bit Multiplier
+
+<p align="center">  
+    <img height="auto" width="620px" src ="Az3/Assets/4-Bit-Multiplier-Proteus.jpg">
+    <img height="auto" width="620px" src ="Az3/Assets/4-Bit-Multiplier.jpg">
+</p>
+
+### Experiment 4 :: 32-Bit Floating Point Adder and Subtractor
+
+<p align="center">  
+    <img height="auto" width="620px" src ="Az4/Assets/32-Bit-FloatingPoint-Adder.jpg">
 </p>
