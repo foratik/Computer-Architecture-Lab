@@ -32,7 +32,7 @@ Here is an image of the available chips in the laboratory:
 ### Experiment 2 :: 6-Bit Carry Select Adder
 
 <p align="center">  
-    <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder.png">
+    <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder-proteus.png">
     <img height="auto" width="620px" src ="Az2/Assets/6-digit-Carry-Select-Adder-implementation.jpg">
 </p>
 
