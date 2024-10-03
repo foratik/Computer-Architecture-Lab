@@ -48,3 +48,8 @@ Here is an image of the available chips in the laboratory:
 <p align="center">  
     <img height="auto" width="620px" src ="Az4/Assets/32-Bit-FloatingPoint-Adder.jpg">
 </p>
+
+### Experiment 5 :: 3-digit BCD to 10-bit Binary Converter
+<p align="center">  
+    <img height="auto" width="620px" src ="Az5/Assets/3-digit-bcd-to-binary-converter-proteus.png">
+</p>
